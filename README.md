@@ -14,4 +14,5 @@ This website includes:
 - **Programming Skills** – I'm currently learning Python and planning to explore additional technologies over time.
 - **Professional Interests** – My key interests include digital health, web and software development, and artificial intelligence.
 - **Projects** – My main project here is this portfolio, developed during the July 2025 Hackathon.
-- **Contact Form** – A simple way for collaborators or potential employers to get in touch with me via email.
+- **Contact Form** – Email Adress - hagyonas18@gmail.com
+  
